@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-String-Tables-Russian (Russia) (ru-RU)
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-String-Tables-Russian (Russia) (ru-RU)
+  m_Data:
+    m_SerializedData: []
+  m_GUID: adc618592a824ea49a569918dc2234e2
+  m_SerializeEntries:
+  - m_GUID: 22a9c4ba756572a448ba04dbea9848a8
+    m_Address: GraphicsCollection_ru-RU
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru-RU
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 296e358a59548bf41a8103a00d51664e
+    m_Address: GamplayDialogueCollection_ru-RU
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru-RU
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2ffc37b5053c49a46be0a79132d7a1e9
+    m_Address: New Game Collection_ru-RU
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru-RU
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 313f1affb8beb7c4f9f856d04bda39c4
+    m_Address: MenuCollection_ru-RU
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru-RU
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 35fb3a4eb31b73f428a16a71246b30b5
+    m_Address: AudioCollection_ru-RU
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru-RU
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7eebed060f4abc34b92d27bce5db658c
+    m_Address: OptionsHeaderCollection_ru-RU
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru-RU
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a3e0c5ef376d05348b870419d6c59cfc
+    m_Address: LocalizationCollection_ru-RU
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ru-RU
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 8e5bd362a50142146926b3c907e5a57a, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 2e637473409dd554ba38e8eac9c24e25, type: 2}
+    - {fileID: 11400000, guid: 3cea81d826eff5845a19116a8f23989f, type: 2}

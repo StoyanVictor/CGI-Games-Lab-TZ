@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-String-Tables-Romanian (Moldova) (ro-MD)
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-String-Tables-Romanian (Moldova) (ro-MD)
+  m_Data:
+    m_SerializedData: []
+  m_GUID: caa767b7e75f2874a81fc6d5b326d58a
+  m_SerializeEntries:
+  - m_GUID: 03372d963f9d81b42b363d784bed9349
+    m_Address: OptionsHeaderCollection_ro-MD
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ro-MD
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 212ca70e8bb799e44b460e921e400a18
+    m_Address: GamplayDialogueCollection_ro-MD
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ro-MD
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 33acad082bb2d4f4280106e884060277
+    m_Address: MenuCollection_ro-MD
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ro-MD
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6382b25909ae65e4b99b732734b7a2af
+    m_Address: New Game Collection_ro-MD
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ro-MD
+    - Preload
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 71985cc4f6db4354fb9e7a74f7a33eaa
+    m_Address: LocalizationCollection_ro-MD
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ro-MD
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 950a411c750336b4fb05503d656adb86
+    m_Address: AudioCollection_ro-MD
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ro-MD
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d34b2117f725efe43b3d1009910c91ed
+    m_Address: GraphicsCollection_ro-MD
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-ro-MD
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 8e5bd362a50142146926b3c907e5a57a, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 4905143a3ed14b041b76173259afba9f, type: 2}
+    - {fileID: 11400000, guid: 11079be040720b54a97c7bed0afb7791, type: 2}

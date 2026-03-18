@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: GamplayDialogueCollection
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: d53e630bb8319ec408c9e396b533f642, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: 296e358a59548bf41a8103a00d51664e, type: 2}
+  - {fileID: 11400000, guid: 54e053e6029bdbd4d8f59842b09b5984, type: 2}
+  - {fileID: 11400000, guid: 72da9e7bacad1df41aa2cb62b908939f, type: 2}
+  - {fileID: 11400000, guid: 212ca70e8bb799e44b460e921e400a18, type: 2}
+  m_Extensions: []
+  m_Group: String Table
+  references:
+    version: 2
+    RefIds: []

@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: AudioCollection Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: AudioCollection
+  m_TableCollectionNameGuidString: 83a8adeff6686db46bc0af184c501163
+  m_Entries:
+  - m_Id: 13089124352
+    m_Key: audio.MainMenu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 18499776512
+    m_Key: audio.Sfx
+    m_Metadata:
+      m_Items: []
+  - m_Id: 23205785600
+    m_Key: audio.MainTheme
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 9219270134845407261
+  references:
+    version: 2
+    RefIds:
+    - rid: 9219270134845407261
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables,
+        asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1773674096799
